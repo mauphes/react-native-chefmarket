@@ -1,0 +1,6 @@
+{
+    "name": "ReviewsScreen",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./ReviewsScreen.js"
+}

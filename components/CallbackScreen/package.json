@@ -1,0 +1,6 @@
+{
+    "name": "CallbackScreen",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./CallbackScreen.js"
+}

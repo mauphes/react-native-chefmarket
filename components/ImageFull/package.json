@@ -1,0 +1,6 @@
+{
+    "name": "ImageFull",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./ImageFull.js"
+}

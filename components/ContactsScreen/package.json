@@ -1,0 +1,6 @@
+{
+    "name": "ContactsScreen",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./ContactsScreen.js"
+}

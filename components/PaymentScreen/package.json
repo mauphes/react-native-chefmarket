@@ -1,0 +1,6 @@
+{
+    "name": "PaymentScreen",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./PaymentScreen.js"
+}

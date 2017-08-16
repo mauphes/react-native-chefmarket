@@ -1,0 +1,6 @@
+{
+    "name": "AgreementScreen",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./AgreementScreen.js"
+}
